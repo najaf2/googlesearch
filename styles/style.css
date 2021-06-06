@@ -62,7 +62,7 @@ form {
     padding-left:50px;
     padding-right: 50px;
 
-    background-image: url(/images/voice.png), url(/images/search.png);
+    background-image: url(images/voice.png), url(images/search.png);
     background-position: 98% 50%, 2% 50%;
     background-repeat: no-repeat, no-repeat;
     background-size:5%, 5%;
